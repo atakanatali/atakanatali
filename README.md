@@ -1,5 +1,5 @@
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/atakanatali/atakanatali/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/atakanatali/atakanatali/blob/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
